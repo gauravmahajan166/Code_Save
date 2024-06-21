@@ -1,5 +1,8 @@
 !#/bin/bash
 
 age=19
+name="gaurav"
 echo "my age is $age"
+name "my name is $name"
+
 
